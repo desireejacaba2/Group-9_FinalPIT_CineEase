@@ -1,0 +1,28 @@
+/* admindash.css */
+
+/* General Styles */
+
+/* Header Styles */
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 0.2rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+.main-content{
+    background-image: url('bg.jpg'); 
+    background-position: center;
+    background-size: cover;
+    height: auto;
+}
+
+
+.container {
+    background-color: rgba(0, 0, 0, 0.8);
+   
+}
+
